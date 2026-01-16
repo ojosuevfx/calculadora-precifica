@@ -22,8 +22,7 @@ Este projeto foi construído com as seguintes tecnologias:
 - **Tailwind CSS** - Framework CSS utilitário
 - **React Router** - Roteamento
 - **Recharts** - Gráficos e visualizações
-- **React Hook Form** - Gerenciamento de formulários
-- **Zod** - Validação de schemas
+- **React Hook Form** - Gerenciamento de formulárioss
 
 ## 📦 Instalação
 
@@ -34,31 +33,8 @@ Para executar o projeto localmente, você precisa ter Node.js e npm instalados.
 - Node.js (recomendado usar [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
 - npm ou yarn
 
-### Passos para instalação
 
-```sh
-# 1. Clone o repositório
-git clone <SEU_GIT_URL>
-
-# 2. Navegue até o diretório do projeto
-cd precifica_vers-o_antiga-main
-
-# 3. Instale as dependências
-npm install
-
-# 4. Inicie o servidor de desenvolvimento
-npm run dev
-```
-
-O projeto estará disponível em `http://localhost:8080`
-
-## 📜 Scripts Disponíveis
-
-- `npm run dev` - Inicia o servidor de desenvolvimento
-- `npm run build` - Cria a build de produção
-- `npm run build:dev` - Cria a build em modo desenvolvimento
-- `npm run lint` - Executa o linter
-- `npm run preview` - Visualiza a build de produção
+O projeto está disponível em https://precificaa.netlify.app
 
 ## 👨‍💻 Autor
 
@@ -71,9 +47,6 @@ O projeto estará disponível em `http://localhost:8080`
 
 Este projeto é de código aberto e está disponível para uso pessoal e comercial.
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ---
 
